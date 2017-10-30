@@ -1,0 +1,7 @@
+[package]
+name = "pget"
+version = "0.1.0"
+authors = ["seb@kickseed <seb@kickseed>"]
+
+[dependencies]
+    reqwest = "*"
